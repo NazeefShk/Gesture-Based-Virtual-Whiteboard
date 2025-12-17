@@ -1,7 +1,4 @@
-Sure 👍
-Below is **ONLY the README.md content** — clean, ready to copy-paste, no explanations.
 
----
 
 # 🖐️ Gesture-Based Virtual Whiteboard
 
@@ -92,12 +89,3 @@ This project is licensed under the MIT License.
 
 * MediaPipe by Google
 * OpenCV community
-
----
-
-If you want, I can also generate:
-
-* `requirements.txt`
-* Demo screenshots/GIF section
-* Viva-ready explanations
-* Final project report content
